@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Verdant POS</string>
+    <string name="terminal_title">Verdant POS #01</string>
+    <string name="sqlite_synced">SQLite Synced</string>
+    <string name="shift_active_imran">Shift #04: Active • Cashier Imran</string>
+    <string name="drawer_amount">Drawer: Rs. 14,850</string>
+    <string name="order_prefix">ORDER #ORD-1082</string>
+    <string name="counter_local_db">Counter #01 • SQLite</string>
+    <string name="barcode_search_hint">Scan barcode or search product...</string>
+    <string name="walk_in_customer">Walk-in Customer</string>
+    <string name="walk_in_desc">Direct Cash Transaction • No Balance</string>
+    <string name="btn_khata_customer">+ Khata</string>
+    <string name="tab_all_items">All Items</string>
+    <string name="tab_grocery">Grocery</string>
+    <string name="tab_pharma">Pharma</string>
+    <string name="tab_beverages">Beverages</string>
+    <string name="active_order">Active Order</string>
+    <string name="items_count_suffix">Items</string>
+    <string name="btn_hold">Hold</string>
+    <string name="btn_clear">Clear</string>
+    <string name="gross_subtotal">Gross Subtotal</string>
+    <string name="discount_label">Retail Discount</string>
+    <string name="total_payable">Total Payable</string>
+    <string name="inclusive_taxes">Net Inclusive of All Taxes</string>
+    <string name="fast_cash_tender">ONE-TAP FAST CASH TENDER</string>
+    <string name="change_due_label">Change Due</string>
+    <string name="cash_tender">Cash Tender</string>
+    <string name="cash_tender_sub">Press Enter or Tap to Pay</string>
+    <string name="udhaar_khata">Customer Ledger</string>
+    <string name="udhaar_khata_sub">Credit Balance</string>
+    <string name="digital_payment">Digital / QR</string>
+    <string name="digital_payment_sub">Debit Card &amp; Online</string>
+    <string name="btn_print_last">Print Last</string>
+    <string name="btn_open_drawer">Open Drawer</string>
+    <string name="btn_custom_discount">Discount %</string>
+    <string name="btn_recall_bill">Recall Bill</string>
+    <string name="nav_register">Register</string>
+    <string name="nav_khata">Ledger</string>
+    <string name="nav_inventory">Inventory</string>
+    <string name="nav_drawer">Drawer</string>
+    <string name="nav_reports">Reports</string>
+</resources>
+
